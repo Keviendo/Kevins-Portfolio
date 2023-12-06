@@ -116,11 +116,12 @@ header .content h1{
 
 header .content h1 span{
     -webkit-text-fill-color: transparent;
-    -webkit-text-stroke: 1px #fff;
+    -webkit-text-stroke: 1px #ffffff;
 }
 
 header .content p{
-    margin-bottom: 2rem;
+    margin-bottom: 1rem;
+    line-height: 2rem;
     color: #ccc;
 }
 
